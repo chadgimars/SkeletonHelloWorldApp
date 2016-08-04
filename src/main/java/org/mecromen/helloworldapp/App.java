@@ -1,4 +1,4 @@
-package Skeleton.SekeletonHelloWorldApp;
+package org.mecromen.helloworldapp;
 
 /**
  * Hello world!
